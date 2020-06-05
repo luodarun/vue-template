@@ -9,8 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "js-cookie": "^2.2.1",
+    "lr-vue-components": "^0.2.0",
+    "normalize.css": "^8.0.1",
+    "nprogress": "^0.2.0",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0",
+    "vue-router": "^3.3.1",
     "vuex": "^3.4.0"
   },
   "devDependencies": {
@@ -27,6 +31,7 @@
     "node-sass": "^4.12.0",
     "prettier": "^1.19.1",
     "sass-loader": "^8.0.2",
+    "sass-resources-loader": "^2.0.3",
     "vue-template-compiler": "^2.6.11"
   }
 }
